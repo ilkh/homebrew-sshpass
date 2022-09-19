@@ -6,7 +6,7 @@ Homebrew maintainers [reject adding](https://github.com/Homebrew/homebrew/pull/1
 ## Install
 
 ```
-brew install ilkh/sshpass
+brew install ilkh/sshpass/sshpass
 ```
 
 Or `brew tap ilkh/sshpass` and then `brew install sshpass`.
